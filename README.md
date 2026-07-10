@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://opensource.x-humanoid-cloud.com/plugin.php?id=keke_video_base&ac=course&cid=27">
+    <img src="docs/sim2real-hardware-training.png" width="700">
+  </a>
+</p>
+
 # TienKung-Lab: Direct IsaacLab Workflow for TienKung
 
 [![IsaacSim](https://img.shields.io/badge/IsaacSim-4.5.0-silver.svg)](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html)
